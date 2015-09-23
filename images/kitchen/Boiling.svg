@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Boiling</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -600.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-487.000000, -598.000000)" stroke="#314E55" stroke-width="2">
+            <g id="Boiling" transform="translate(492.000000, 601.000000)" sketch:type="MSShapeGroup">
+                <path d="M20.686261,23.627478 C26.1496496,32.7349701 32.5405665,51.092556 31.3014469,53.5345269 C29.6442242,56.8004666 2.71793891,56.843113 0.301446929,53.5345269 C-1.53536425,51.0196218 5.39053476,32.1058448 11.0881462,23.1762924 L7,15 L25,15 L20.686261,23.627478 Z" id="Rectangle-727" stroke-linecap="round" stroke-linejoin="bevel" fill="#D26CBA"></path>
+                <path d="M23,29 L28.7008772,23.2991229" id="Line" stroke-linecap="square" stroke-linejoin="round"></path>
+                <rect id="Rectangle-728" stroke-linecap="round" stroke-linejoin="round" fill="#D8D8D8" transform="translate(39.000000, 13.000000) rotate(-45.000000) translate(-39.000000, -13.000000) " x="25" y="10" width="28" height="6" rx="12"></rect>
+                <path d="M15,0 L15,4.12310553" id="Line-231" stroke-linecap="square" stroke-linejoin="round"></path>
+                <path d="M11,7 L11,11.1231055" id="Line-229" stroke-linecap="square" stroke-linejoin="round"></path>
+                <path d="M21,2 L21,6.12310553" id="Line-230" stroke-linecap="square" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

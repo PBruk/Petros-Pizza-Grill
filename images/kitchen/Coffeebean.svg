@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Coffeebean</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -1200.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-487.000000, -1198.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Coffeebean" transform="translate(516.819805, 1229.526912) rotate(-315.000000) translate(-516.819805, -1229.526912) translate(498.819805, 1202.526912)" sketch:type="MSShapeGroup">
+                <path d="M17.9142136,53 C27.5791967,53 35.4142136,41.3594035 35.4142136,27 C35.4142136,14.0609196 32.408728,2.51743983 21.7185682,0.360444744 C20.5451092,0.123671347 19.279054,1.47521818 17.9142136,1.47521818 C16.3067333,1.47521818 14.8362842,0.171552344 13.4927548,0.497389215 C3.30354082,2.96850866 0.414213562,14.3134232 0.414213562,27 C0.414213562,41.3594035 8.24923044,53 17.9142136,53 Z" id="Oval-748" fill="#E4AD40"></path>
+                <path d="M18.251322,5.90970909 C3.25921152,19.905594 27.9890927,32.7886382 17.0180708,46.4702149" id="Path-1713"></path>
+            </g>
+        </g>
+    </g>
+</svg>

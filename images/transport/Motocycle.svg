@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Motocycle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -840.000000)"></g>
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-479.000000, -838.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Motocycle" transform="translate(482.000000, 860.000000)" sketch:type="MSShapeGroup">
+                <path d="M14.6929326,10.2845296 C20.7005182,14.0236825 20.2985715,22.9769746 20.2985715,22.9769746 L32.0715524,22.9769746 C32.0715524,22.9769746 33.8200651,12.8949508 39.9873739,9.85505386 C44.7413839,7.51177882 50.0614356,6.35880574 50.0475927,5.27271043 C50.0311937,3.98607227 44.6566184,1.11194631 38.7238584,0.443039645 C27.7830525,-0.790514033 25.2115565,5.44862314 15.1793437,4.54436354 C5.14713084,3.64010393 0.0127377799,8.85292054 0.0127377799,8.85292054 C0.0127377799,8.85292054 8.68534711,6.54537673 14.6929326,10.2845296 Z" id="Path-3946" fill="#73C9C9"></path>
+                <path d="M46.1219324,2.36274144 L40.6330479,3.98478894" id="Path-3948"></path>
+                <circle id="Oval-1589" fill="#D8D8D8" cx="8" cy="20" r="8"></circle>
+                <circle id="Oval-1589" fill="#D8D8D8" cx="47" cy="20" r="8"></circle>
+                <path d="M41.3443263,9.18231761 L47.0000002,19.9999999" id="Path-3949"></path>
+            </g>
+        </g>
+    </g>
+</svg>

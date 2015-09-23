@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Chicken</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -720.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-7.000000, -718.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Chicken" transform="translate(7.000000, 731.000000)" sketch:type="MSShapeGroup">
+                <path d="M42,32.5520382 C50.836556,32.5520382 58,25.3885942 58,16.5520382 C58,7.7154822 50.836556,0.5520382 42,0.5520382 C33.8404778,0.5520382 27.1075102,6.65984453 26.1236837,14.5528707 L26.1236837,14.5528707 C26.0825219,14.5523163 26.0412934,14.5520382 26,14.5520382 C21.0294373,14.5520382 17,18.5814755 17,23.5520382 C17,28.5226009 21.0294373,32.5520382 26,32.5520382 L42,32.5520382 Z" id="Oval-681" fill="#F28544"></path>
+                <path d="M53,17 C53,10.9248678 48.0751322,6 42,6" id="Oval-683"></path>
+                <path d="M8.6,13.0344828 C6.6117749,13.0344828 5,11.4597602 5,9.51724138 C5,7.5747226 6.6117749,6 8.6,6 C9.52202532,6 10.3630922,6.33865591 11,6.89559927 C11.6369078,6.33865591 12.4779747,6 13.4,6 C15.3882251,6 17,7.5747226 17,9.51724138 C17,11.2600323 15.702628,12.7067717 14,12.9858519 L14,23 L8.6,23 L8.6,13.0344828 Z" id="Oval-683" fill="#EAEAEA" transform="translate(11.000000, 14.500000) rotate(-60.000000) translate(-11.000000, -14.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

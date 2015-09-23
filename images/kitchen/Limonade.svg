@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Limonade</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-600.000000, -1560.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-607.000000, -1558.000000)" stroke-width="2" stroke-linejoin="round">
+            <g id="Limonade" transform="translate(620.000000, 1567.000000)" sketch:type="MSShapeGroup">
+                <path d="M9,9 L9,13.8414308 C3.59775848,17.1918021 0,23.1757503 0,30 C0,40.4934102 8.50658975,49 19,49 C29.4934102,49 38,40.4934102 38,30 C38,23.1757503 34.4022415,17.1918021 29,13.8414308 L29,13.8414308 L29,9 L9,9 Z" id="Oval-781" stroke="#314E55" stroke-linecap="round" fill="#DBCF56"></path>
+                <path d="M9,9 L9,4.72498082 L6,0 L29,0 L29,9 L9,9 Z" id="Oval-782" stroke="#314E55" stroke-linecap="round"></path>
+                <rect id="Rectangle-918" stroke="#314E55" stroke-linecap="round" fill="#EAEAEA" transform="translate(28.000000, 27.000000) rotate(-330.000000) translate(-28.000000, -27.000000) " x="24" y="23" width="8" height="8"></rect>
+                <rect id="Rectangle-919" stroke="#314E55" stroke-linecap="round" fill="#EAEAEA" transform="translate(19.500000, 38.500000) rotate(-274.000000) translate(-19.500000, -38.500000) " x="16" y="35" width="7" height="7"></rect>
+                <g id="Oval-783-+-Line-+-Line" transform="translate(10.500000, 24.500000) rotate(-46.000000) translate(-10.500000, -24.500000) translate(2.000000, 20.000000)" stroke="#535353">
+                    <path d="M17,9 C17,4.30557963 13.1944204,0.5 8.5,0.5 C3.80557963,0.5 6.39488462e-14,4.30557963 6.39488462e-14,9 L17,9 Z" id="Oval-783" stroke-linecap="round" fill="#E4AD40"></path>
+                    <path d="M5,2.25 L7,8.25" id="Line" stroke-linecap="square"></path>
+                    <path d="M12,2.25 L9,8.25" id="Line" stroke-linecap="square"></path>
+                </g>
+                <path d="M29.5127413,6.0906335 C29.5127413,6.0906335 37.2626807,3.85702946 38.7663855,8.17997438 C40.2700903,12.5029193 34.8788712,18.4985915 34.8788712,18.4985915" id="Path-1822" stroke="#314E55" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

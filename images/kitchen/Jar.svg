@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Jar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -600.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-7.000000, -598.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Jar" transform="translate(21.000000, 602.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-718" stroke-linecap="round" fill="#E5D85A" x="0" y="7" width="31" height="42" rx="4"></rect>
+                <rect id="Rectangle-719" stroke-linecap="round" fill="#D8D8D8" x="0" y="0" width="31" height="6" rx="10"></rect>
+                <rect id="Rectangle-720" stroke-linecap="round" fill="#73C9C9" x="15" y="17" width="16" height="21"></rect>
+                <path d="M4,47 L27,47 L25,52 L6,52 L4,47 Z" id="Rectangle-721" stroke-linecap="round" fill="#E5D85A"></path>
+                <path d="M4,13 L4,44.052597" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

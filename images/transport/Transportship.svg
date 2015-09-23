@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Transportship</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport_sliced" sketch:type="MSLayerGroup" transform="translate(-120.000000, -360.000000)"></g>
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-119.000000, -358.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Transportship" transform="translate(122.000000, 366.000000)" sketch:type="MSShapeGroup">
+                <path d="M3,41 C3,44.3137085 5.6862915,47 9,47 C12.3137085,47 15,44.3137085 15,41" id="Oval-1492" stroke-linecap="round"></path>
+                <path d="M27,41 C27,44.3137085 29.6862915,47 33,47 C36.3137085,47 39,44.3137085 39,41" id="Oval-1492" stroke-linecap="round"></path>
+                <path d="M15,41 C15,44.3137085 17.6862915,47 21,47 C24.3137085,47 27,44.3137085 27,41" id="Oval-1492" stroke-linecap="round"></path>
+                <path d="M39,41 C39,44.3137085 41.6862915,47 45,47 C48.3137085,47 51,44.3137085 51,41" id="Oval-1492" stroke-linecap="round"></path>
+                <path d="M3.34896094,37.0000056 C1.21469246,32.8493786 0,28.077053 0,23.0000056 L54,23.0000056 C54,28.077053 52.7853075,32.8493786 50.6510391,37.0000056 L3.34895808,37 Z" id="Oval-1492" stroke-linecap="round" fill="#EAEAEA"></path>
+                <rect id="Rectangle-1707" stroke-linecap="round" fill="#D8D8D8" x="4" y="9" width="10" height="15"></rect>
+                <path d="M9,10 L9,0" id="Line" stroke-linecap="square"></path>
+                <path d="M10,14 L8,14" id="Line" stroke-linecap="square"></path>
+                <path d="M10,17 L8,17" id="Line" stroke-linecap="square"></path>
+                <rect id="Rectangle-1708" stroke-linecap="round" fill="#81A4E3" x="26" y="16" width="12" height="8"></rect>
+                <rect id="Rectangle-1708" stroke-linecap="round" fill="#F28544" x="36" y="16" width="12" height="8"></rect>
+                <rect id="Rectangle-1708" stroke-linecap="round" fill="#D26CBA" x="28" y="10" width="14" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

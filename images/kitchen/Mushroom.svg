@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Mushroom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, -720.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-847.000000, -718.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Mushroom" transform="translate(852.000000, 723.000000)" sketch:type="MSShapeGroup">
+                <path d="M24.5,28.0597253 C38.0171199,28.0597253 48.9749106,37.9920305 48.9749106,24.4749106 C48.9749106,10.9577907 38.0171199,0 24.5,0 C10.9828801,0 0.0250893801,10.9577907 0.0250893801,24.4749106 C0.0250893801,37.9920305 10.9828801,28.0597253 24.5,28.0597253 Z" id="Oval-691" fill="#DBCF56"></path>
+                <path d="M24.5,6 C14.2827321,6 6,14.2827321 6,24.5" id="Oval-692"></path>
+                <path d="M29.5833344,28.537231 C29.5833344,28.537231 27.4941612,28.1857964 25.6248345,28.1857964 C23.7555078,28.1857964 21.8722739,28.1857964 21.8722739,28.1857964 C21.8722739,28.1857964 13.8003745,39.2965031 13.8003745,43.9196749 C13.8003745,48.5428467 27.6731419,46.6745327 30.8619448,44.8760898 C32.5309529,43.9347913 29.5833344,28.537231 29.5833344,28.537231 Z" id="Path-1571" fill="#E4AD40"></path>
+            </g>
+        </g>
+    </g>
+</svg>

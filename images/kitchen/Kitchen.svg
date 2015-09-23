@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Kitchen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-240.000000, -1440.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-247.000000, -1438.000000)" stroke-linecap="round" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g transform="translate(255.000000, 1443.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-809" fill="#F28544" x="0" y="19" width="45" height="10"></rect>
+                <path d="M11,8 L35,8 L41,21 L5,21 L11,8 Z" id="Rectangle-810" fill="#E9E7D1"></path>
+                <rect id="Rectangle-811" fill="#F28544" x="19" y="0" width="9" height="10"></rect>
+                <rect id="Rectangle-812" x="37" y="23" width="2" height="2"></rect>
+                <rect id="Rectangle-813" x="33" y="23" width="2" height="2"></rect>
+                <rect id="Rectangle-814" x="29" y="23" width="2" height="2"></rect>
+                <path d="M18.7633413,33 C18.7633413,33 13.9040421,35.2546124 17.0730777,41.5654122 C20.2421132,47.8762121 16.719664,50.0940917 16.719664,50.0940917" id="Path-1355"></path>
+                <path d="M23.7633413,33 C23.7633413,33 18.9040421,35.2546124 22.0730777,41.5654122 C25.2421132,47.8762121 21.719664,50.0940917 21.719664,50.0940917" id="Path-1353"></path>
+                <path d="M28.7633413,33 C28.7633413,33 23.9040421,35.2546124 27.0730777,41.5654122 C30.2421132,47.8762121 26.719664,50.0940917 26.719664,50.0940917" id="Path-1354"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Gasstation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport_sliced" sketch:type="MSLayerGroup" transform="translate(-600.000000, -240.000000)"></g>
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-599.000000, -238.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Gasstation" transform="translate(604.000000, 245.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1701" stroke-linecap="round" fill="#D8D8D8" x="0" y="0" width="35" height="21"></rect>
+                <rect id="Rectangle-1702" stroke-linecap="round" fill="#DBCF56" x="3" y="4" width="29" height="13"></rect>
+                <path d="M10,16 L10,12" id="Line" stroke-linecap="square"></path>
+                <rect id="Rectangle-1703" stroke-linecap="round" fill="#73C9C9" x="4" y="21" width="27" height="25"></rect>
+                <rect id="Rectangle-1709" stroke-linecap="round" fill="#D8D8D8" transform="translate(17.500000, 48.000000) scale(1, -1) translate(-17.500000, -48.000000) " x="4" y="46" width="27" height="4"></rect>
+                <path d="M39,29 C39,27.3431458 37.6568542,26 36,26" id="Oval-1485"></path>
+                <path d="M31,26 L35,26" id="Line" stroke-linecap="square"></path>
+                <path d="M39,30 L39,42" id="Line" stroke-linecap="square"></path>
+                <path d="M39,43 C39,44.6568542 40.3431458,46 42,46 C43.6568542,46 45,44.6568542 45,43" id="Oval-1485"></path>
+                <path d="M45,42 L45,19" id="Line" stroke-linecap="square"></path>
+                <rect id="Rectangle-1704" stroke-linecap="round" fill="#D8D8D8" x="42" y="9" width="6" height="11"></rect>
+                <path d="M45.0610376,9.48947707 L41.4002356,2.36165914" id="Path-3771" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

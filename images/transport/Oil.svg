@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Oil</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport_sliced" sketch:type="MSLayerGroup" transform="translate(-720.000000, -480.000000)"></g>
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-719.000000, -478.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Oil" transform="translate(725.000000, 480.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1749" stroke-linecap="round" fill="#DBCF56" x="0" y="8" width="37" height="46"></rect>
+                <rect id="Rectangle-1750" stroke-linecap="round" fill="#D8D8D8" x="5" y="4" width="8" height="5"></rect>
+                <rect id="Rectangle-1751" stroke-linecap="round" fill="#E65F58" x="0" y="0" width="18" height="6"></rect>
+                <path d="M6,8 L6,54" id="Line" stroke-linecap="square" fill="#D8D8D8"></path>
+                <path d="M18,47.0950966 C18,47.0950966 24,40.3137085 24,37 C24,33.6862915 21.3137085,31 18,31 C14.6862915,31 12,33.6862915 12,37 C12,40.3137085 18,47.0950966 18,47.0950966 Z" id="Oval-1525" stroke-linecap="round" fill="#81A4E3"></path>
+                <path d="M26,26.4524517 C26,26.4524517 30.1006278,21.8177937 30.1006278,19.5530795 C30.1006278,17.2883653 28.2647142,15.4524517 26,15.4524517 C23.7352858,15.4524517 21.8993722,17.2883653 21.8993722,19.5530795 C21.8993722,21.8177937 26,26.4524517 26,26.4524517 Z" id="Oval-1525" stroke-linecap="round" fill="#81A4E3"></path>
+                <rect id="Rectangle-1752" stroke-linecap="round" x="37" y="11" width="7" height="18"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

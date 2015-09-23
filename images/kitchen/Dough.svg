@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Dough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-120.000000, -1560.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-127.000000, -1558.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Dough" transform="translate(130.000000, 1566.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-890" fill="#E4AD40" x="6" y="0" width="43" height="10" rx="2"></rect>
+                <circle id="Oval-775" fill="#E4AD40" cx="52" cy="5" r="3"></circle>
+                <circle id="Oval-775" fill="#E4AD40" cx="3" cy="5" r="3"></circle>
+                <path d="M0.869353094,45.3739825 C-0.433101497,43.161717 7.13946925,40.3506831 6.23442764,36.1222095 C5.32938603,31.893736 8.44722285,28.2735692 12.4695716,28.2735691 C16.4919203,28.2735691 32.6178755,30.2850084 37.4445897,29.2792888 C42.2713039,28.2735691 45.2884599,26.5291913 47.0985446,31.3257004 C48.9086292,36.1222096 50.6842677,39.4710761 52.4286468,43.1617172 C54.1730259,46.8523584 48.3405912,48.2602602 42.2061265,48.2602602 C36.0716617,48.2602602 24.6722676,46.3791723 17.0297525,47.3197162 C9.38723735,48.2602602 2.17180769,47.5862481 0.869353094,45.3739825 Z" id="Path-1815" fill="#E9E7D1"></path>
+                <rect id="Rectangle-891" x="14" y="16" width="2" height="2"></rect>
+                <rect id="Rectangle-892" x="20" y="21" width="2" height="2"></rect>
+                <rect id="Rectangle-893" x="24" y="14" width="2" height="2"></rect>
+                <rect id="Rectangle-894" x="31" y="19" width="2" height="2"></rect>
+                <rect id="Rectangle-895" x="41" y="15" width="2" height="2"></rect>
+                <rect id="Rectangle-896" x="39" y="22" width="2" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

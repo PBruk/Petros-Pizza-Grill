@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Cakecook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-240.000000, -1080.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-247.000000, -1078.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Cakecook" transform="translate(254.000000, 1082.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,46.1084557 L6,21 L40,21 L46,46.1084557 L46,52 L0,52 L0,46.1084557 Z" id="Rectangle-773" fill="#F28544"></path>
+                <path d="M15,45 C15,42.790861 13.209139,41 11,41 C8.790861,41 7,42.790861 7,45" id="Oval-731" fill="#5ECB66"></path>
+                <path d="M23,45 C23,42.790861 21.209139,41 19,41 C16.790861,41 15,42.790861 15,45" id="Oval-731" fill="#5ECB66"></path>
+                <path d="M31,45 C31,42.790861 29.209139,41 27,41 C24.790861,41 23,42.790861 23,45" id="Oval-731" fill="#5ECB66"></path>
+                <path d="M39,45 C39,42.790861 37.209139,41 35,41 C32.790861,41 31,42.790861 31,45" id="Oval-731" fill="#5ECB66"></path>
+                <path d="M6,45 L40,45" id="Line"></path>
+                <path d="M19.7633413,0 C19.7633413,0 14.9040421,2.25461238 18.0730777,8.56541225 C21.2421132,14.8762121 17.719664,17.0940917 17.719664,17.0940917" id="Path-1348"></path>
+                <path d="M24.7633413,0 C24.7633413,0 19.9040421,2.25461238 23.0730777,8.56541225 C26.2421132,14.8762121 22.719664,17.0940917 22.719664,17.0940917" id="Path-1346"></path>
+                <path d="M29.7633413,0 C29.7633413,0 24.9040421,2.25461238 28.0730777,8.56541225 C31.2421132,14.8762121 27.719664,17.0940917 27.719664,17.0940917" id="Path-1347"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ATV</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, -720.000000)"></g>
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-839.000000, -718.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="ATV" transform="translate(842.000000, 731.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-1579" stroke-linecap="round" fill="#D8D8D8" cx="45" cy="27" r="10"></circle>
+                <circle id="Oval-1580" stroke-linecap="round" cx="45" cy="27" r="1"></circle>
+                <path d="M45,18 L45,17 M51.363961,20.636039 L52.0710678,19.9289322 M54,27 L55,27 M51.363961,33.363961 L52.0710678,34.0710678 M45,36 L45,37 M38.636039,33.363961 L37.9289322,34.0710678 M36,27 L35,27 M38.636039,20.636039 L37.9289322,19.9289322" id="Line" stroke-linecap="round"></path>
+                <path d="M10,18 L10,17 M16.363961,20.636039 L17.0710678,19.9289322 M19,27 L20,27 M16.363961,33.363961 L17.0710678,34.0710678 M10,36 L10,37 M3.63603897,33.363961 L2.92893219,34.0710678 M1,27 L-1.71635662e-17,27 M3.63603897,20.636039 L2.92893219,19.9289322" id="Line-373" stroke-linecap="round"></path>
+                <circle id="Oval-1579" stroke-linecap="round" fill="#D8D8D8" cx="10" cy="27" r="10"></circle>
+                <circle id="Oval-1581" stroke-linecap="round" cx="10" cy="27" r="1"></circle>
+                <path d="M24.0967484,27.0000007 C28.4529607,27.0000012 31.1897165,26.9999997 31.1897165,26.9999997 C31.1897165,26.9999997 30.7392086,15.5557578 43.9228554,12.1675469 C43.9228553,12.1675468 39.899586,5.07759423 39.899586,5.07759423 C39.899586,5.07759423 29.902247,9.23973558 25.4212551,9.10887527 C17.602385,8.8805375 3,4 3,4 L3,8.39577843 C3,8.39577843 24.0967484,12.6453993 24.0967484,27.0000007 Z" id="Path-3914" stroke-linecap="round" fill="#73C9C9"></path>
+                <path d="M39.2225674,5.32131585 L28,0.823726406" id="Path-3915" stroke-linecap="round"></path>
+                <path d="M24,17 L28,17" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

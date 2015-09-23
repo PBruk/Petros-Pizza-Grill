@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Cake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-600.000000, -600.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-607.000000, -598.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Cake" transform="translate(610.000000, 603.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,50 L54.0092583,50" id="Line" stroke-linecap="square"></path>
+                <rect id="Rectangle-729" stroke-linecap="round" fill="#F58CAC" x="5" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-730" stroke-linecap="round" fill="#F58CAC" x="11" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-731" stroke-linecap="round" fill="#F58CAC" x="17" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-734" stroke-linecap="round" fill="#F58CAC" x="23" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-732" stroke-linecap="round" fill="#F58CAC" x="29" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-733" stroke-linecap="round" fill="#F58CAC" x="35" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-733" stroke-linecap="round" fill="#F58CAC" x="41" y="41" width="8" height="10"></rect>
+                <rect id="Rectangle-736" stroke-linecap="round" fill="#E9E7D1" x="6" y="23" width="42" height="14"></rect>
+                <path d="M13,27 L23,27" id="Line" stroke-linecap="round"></path>
+                <path d="M27,27 L30,27" id="Line" stroke-linecap="round"></path>
+                <rect id="Rectangle-737" stroke-linecap="round" fill="#DBCF56" x="15" y="11" width="5" height="14"></rect>
+                <rect id="Rectangle-737" stroke-linecap="round" fill="#DBCF56" x="25" y="11" width="5" height="14"></rect>
+                <rect id="Rectangle-738" stroke-linecap="round" fill="#DBCF56" x="35" y="11" width="5" height="14"></rect>
+                <path d="M37.2906855,8 C38.7869986,8 40,6.78699858 40,5.2906855 C40,3.79437242 38.7869986,0 37.2906855,0 C35.7943724,0 34.581371,3.79437242 34.581371,5.2906855 C34.581371,6.78699858 35.7943724,8 37.2906855,8 Z" id="Oval-670" stroke-linecap="round" fill="#E65F58"></path>
+                <path d="M27.2906855,8 C28.7869986,8 30,6.78699858 30,5.2906855 C30,3.79437242 28.7869986,0 27.2906855,0 C25.7943724,0 24.581371,3.79437242 24.581371,5.2906855 C24.581371,6.78699858 25.7943724,8 27.2906855,8 Z" id="Oval-670" stroke-linecap="round" fill="#E65F58"></path>
+                <path d="M17.2906855,8 C18.7869986,8 20,6.78699858 20,5.2906855 C20,3.79437242 18.7869986,0 17.2906855,0 C15.7943724,0 14.581371,3.79437242 14.581371,5.2906855 C14.581371,6.78699858 15.7943724,8 17.2906855,8 Z" id="Oval-670" stroke-linecap="round" fill="#E65F58"></path>
+            </g>
+        </g>
+    </g>
+</svg>

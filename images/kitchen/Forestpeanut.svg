@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Forestpeanut</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -960.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-487.000000, -958.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Forestpeanut" transform="translate(489.000000, 959.000000)" sketch:type="MSShapeGroup">
+                <path d="M25.5171356,52.7779696 C26.3912566,52.9584542 28.2867031,51.0753165 29.1984341,51.0753165 C30.0742861,51.0753165 31.9351101,52.9656781 32.7764372,52.7988732 C41.2191113,51.1249942 46.6984341,41.3546286 46.6984341,29.5520812 C46.6984341,16.5733896 44.7921268,6.0520812 29.1984341,6.0520812 C13.6047413,6.0520812 11.6984341,16.5733896 11.6984341,29.5520812 C11.6984341,41.3064484 17.1249652,51.0451913 25.5171356,52.7779696 Z" id="Oval-724" fill="#DBCF56" transform="translate(29.198434, 29.430689) rotate(-135.000000) translate(-29.198434, -29.430689) "></path>
+                <path d="M14.2874291,19.6884863 C6.69379469,27.910521 2.73297193,36.0275713 12.6672619,45.9618612 C23.3632028,56.6578022 31.9525706,51.2463075 40.8344773,42.53567 L27.4358903,40.7378925 L26.5413652,30.8730974 L15.9343356,30.8045667 L14.2874291,19.6884863 Z" id="Oval-723" fill="#5ECB66"></path>
+                <path d="M46.9891995,15.0758272 C46.9891995,15.0758272 39.9867498,13.3235323 36.9090204,18.7217063" id="Path-1633"></path>
+            </g>
+        </g>
+    </g>
+</svg>
